@@ -56,8 +56,8 @@ namespace NotKayitSistemi
         {
             double ortalama, s1, s2, s3;
             string durum;
-            int totalGecenSayisi;//bu kısım daha sonra eklenecek!!
-            int totalKalanSayisi;//bu kısım daha sonra eklenecek!!
+            //int totalGecenSayisi;//bu kısım daha sonra eklenecek!!
+            //int totalKalanSayisi;//bu kısım daha sonra eklenecek!!
 
             s1 = Convert.ToDouble(TxtSinav1.Text);
             s2 = Convert.ToDouble(TxtSinav2.Text);
